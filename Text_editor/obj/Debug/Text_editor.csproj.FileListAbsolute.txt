@@ -1,0 +1,50 @@
+C:\Users\Lawliet\Desktop\Text_editor\Text_editor\bin\Debug\Text_editor.exe.config
+C:\Users\Lawliet\Desktop\Text_editor\Text_editor\bin\Debug\Text_editor.exe
+C:\Users\Lawliet\Desktop\Text_editor\Text_editor\bin\Debug\Text_editor.pdb
+C:\Users\Lawliet\Desktop\Text_editor\Text_editor\obj\Debug\Text_editor.Form1.resources
+C:\Users\Lawliet\Desktop\Text_editor\Text_editor\obj\Debug\Text_editor.Properties.Resources.resources
+C:\Users\Lawliet\Desktop\Text_editor\Text_editor\obj\Debug\Text_editor.csproj.GenerateResource.cache
+C:\Users\Lawliet\Desktop\Text_editor\Text_editor\obj\Debug\Text_editor.csproj.CoreCompileInputs.cache
+C:\Users\Lawliet\Desktop\Text_editor\Text_editor\obj\Debug\Text_editor.exe
+C:\Users\Lawliet\Desktop\Text_editor\Text_editor\obj\Debug\Text_editor.pdb
+C:\Users\Lawliet\Desktop\Text_editor\Text_editor\obj\Debug\Text_editor.csprojAssemblyReference.cache
+C:\Users\Lawliet\Desktop\Фильтер текста, редактор текста Text_editor\Text_editor\bin\Debug\Text_editor.exe.config
+C:\Users\Lawliet\Desktop\Фильтер текста, редактор текста Text_editor\Text_editor\bin\Debug\Text_editor.exe
+C:\Users\Lawliet\Desktop\Фильтер текста, редактор текста Text_editor\Text_editor\bin\Debug\Text_editor.pdb
+C:\Users\Lawliet\Desktop\Фильтер текста, редактор текста Text_editor\Text_editor\obj\Debug\Text_editor.csprojAssemblyReference.cache
+C:\Users\Lawliet\Desktop\Фильтер текста, редактор текста Text_editor\Text_editor\obj\Debug\Text_editor.Form1.resources
+C:\Users\Lawliet\Desktop\Фильтер текста, редактор текста Text_editor\Text_editor\obj\Debug\Text_editor.Properties.Resources.resources
+C:\Users\Lawliet\Desktop\Фильтер текста, редактор текста Text_editor\Text_editor\obj\Debug\Text_editor.csproj.GenerateResource.cache
+C:\Users\Lawliet\Desktop\Фильтер текста, редактор текста Text_editor\Text_editor\obj\Debug\Text_editor.csproj.CoreCompileInputs.cache
+C:\Users\Lawliet\Desktop\Фильтер текста, редактор текста Text_editor\Text_editor\obj\Debug\Text_editor.exe
+C:\Users\Lawliet\Desktop\Фильтер текста, редактор текста Text_editor\Text_editor\obj\Debug\Text_editor.pdb
+C:\Users\Lawliet\Desktop\11111\Text_editor\bin\Debug\Text_editor.exe.config
+C:\Users\Lawliet\Desktop\11111\Text_editor\bin\Debug\Text_editor.exe
+C:\Users\Lawliet\Desktop\11111\Text_editor\bin\Debug\Text_editor.pdb
+C:\Users\Lawliet\Desktop\11111\Text_editor\obj\Debug\Text_editor.Form1.resources
+C:\Users\Lawliet\Desktop\11111\Text_editor\obj\Debug\Text_editor.Properties.Resources.resources
+C:\Users\Lawliet\Desktop\11111\Text_editor\obj\Debug\Text_editor.csproj.GenerateResource.cache
+C:\Users\Lawliet\Desktop\11111\Text_editor\obj\Debug\Text_editor.csproj.CoreCompileInputs.cache
+C:\Users\Lawliet\Desktop\11111\Text_editor\obj\Debug\Text_editor.exe
+C:\Users\Lawliet\Desktop\11111\Text_editor\obj\Debug\Text_editor.pdb
+C:\Users\Lawliet\Desktop\11111\Text_editor\obj\Debug\Text_editor.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\11111\Text_editor\bin\Debug\Text_editor.exe.config
+C:\Users\Кирилл\Desktop\11111\Text_editor\bin\Debug\Text_editor.exe
+C:\Users\Кирилл\Desktop\11111\Text_editor\bin\Debug\Text_editor.pdb
+C:\Users\Кирилл\Desktop\11111\Text_editor\obj\Debug\Text_editor.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\11111\Text_editor\obj\Debug\Text_editor.Form1.resources
+C:\Users\Кирилл\Desktop\11111\Text_editor\obj\Debug\Text_editor.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\11111\Text_editor\obj\Debug\Text_editor.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\11111\Text_editor\obj\Debug\Text_editor.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\11111\Text_editor\obj\Debug\Text_editor.exe
+C:\Users\Кирилл\Desktop\11111\Text_editor\obj\Debug\Text_editor.pdb
+C:\Users\Кирилл\Desktop\push\Text_editor\bin\Debug\Text_editor.exe.config
+C:\Users\Кирилл\Desktop\push\Text_editor\bin\Debug\Text_editor.exe
+C:\Users\Кирилл\Desktop\push\Text_editor\bin\Debug\Text_editor.pdb
+C:\Users\Кирилл\Desktop\push\Text_editor\obj\Debug\Text_editor.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\push\Text_editor\obj\Debug\Text_editor.Form1.resources
+C:\Users\Кирилл\Desktop\push\Text_editor\obj\Debug\Text_editor.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\push\Text_editor\obj\Debug\Text_editor.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\push\Text_editor\obj\Debug\Text_editor.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\push\Text_editor\obj\Debug\Text_editor.exe
+C:\Users\Кирилл\Desktop\push\Text_editor\obj\Debug\Text_editor.pdb
